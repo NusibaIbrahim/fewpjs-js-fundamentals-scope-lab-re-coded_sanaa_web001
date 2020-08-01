@@ -10,7 +10,7 @@ function yourAnimal() {
   let animal = 'cat';
   return animal
 }
-yourAnimal("cat");
+
 function add2(n) {
   return n + two
 
