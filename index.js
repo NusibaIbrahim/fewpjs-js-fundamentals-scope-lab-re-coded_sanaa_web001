@@ -4,7 +4,6 @@ function myAnimal(animal) {
   const animal = 'dog';
   return animal
 }
-myAnimal("dog");
 function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
