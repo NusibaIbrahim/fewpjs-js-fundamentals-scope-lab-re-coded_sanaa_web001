@@ -15,8 +15,6 @@ function add2(n) {
   return n + two
 
   // Feel free to move things around!
-  function() {
-  const n = Math.floor(Math.random() * 1000)
-  };
  const two = 2
 }
+add2(2);
